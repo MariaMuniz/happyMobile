@@ -41,7 +41,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -   [Expo Google Fonts](https://github.com/expo/google-fonts)
 -   [React-native-maps](https://github.com/expo/react-native-appearance)
 -   [Prettier](https://prettier.io/)
--   [VS Code](https://code.visualstudio.com/)
+-   [VS Code](https://code.visualstudio.com/)mudeiaqui!
 
 </details>
 
